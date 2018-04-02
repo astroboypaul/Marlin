@@ -241,6 +241,8 @@
   #define FAN_PIN 4      // IO pin. Buffer needed
 #endif
 
+#undef FAN_PIN
+
 //
 // Misc. Functions
 //
